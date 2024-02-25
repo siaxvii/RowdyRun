@@ -1,4 +1,12 @@
-# Rowdy Run: Help little Rowdy journey through the ages, dodge obstacles, and conquer trivia challenges to reach the opening ceremony before it starts at Rowdyhacks IX!
+# Rowdy Run 
+
+Rowdy Run: Help little Rowdy journey through the ages, dodge obstacles, and conquer trivia challenges to reach the opening ceremony before it starts at Rowdyhacks IX!
+
+<img width="250" alt="image" src="https://github.com/siaxvii/RowdyRun/assets/91913752/b4fe5b30-00cb-4be0-9b94-a3c52865862d">
+<img width="250" alt="image" src="https://github.com/siaxvii/RowdyRun/assets/91913752/2d9403cc-4607-4815-a6c5-44baae955b43">
+<img width="250" alt="image" src="https://github.com/siaxvii/RowdyRun/assets/91913752/c48f37a9-dae8-4516-9536-ebca52712d67">
+<img width="250" alt="image" src="https://github.com/siaxvii/RowdyRun/assets/91913752/f52e0890-7776-4b55-937f-d86683d22cd4">
+<img width="250" alt="image" src="https://github.com/siaxvii/RowdyRun/assets/91913752/38a47e75-9d83-44fa-af9b-88146ba43889">
 
 ### Inspiration
 We wanted to create a fun and educational game that is combined with the spirit of the hackathon! We wanted to ultimately create a product that we could see in action, since there are few projects where you truly get to engage with the project.
