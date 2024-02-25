@@ -11,6 +11,16 @@ Rowdy Run: Help little Rowdy journey through the ages, dodge obstacles, and conq
 ### Inspiration
 We wanted to create a fun and educational game that is combined with the spirit of the hackathon! We wanted to ultimately create a product that we could see in action, since there are few projects where you truly get to engage with the project.
 
+
+### Technologies We used:
+&emsp;
+<p align = "center">
+<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
+
 ### What it does
 Rowdy Run is an exciting retro-style dinosaur game where players take little Rowdy on a journey through epochs in which dinosaurs roamed, encountering various obstacles and challenges. The gameplay involves advancing through levels with progressive difficulty using simple keyboard controls and answering trivia questions to defeat bosses.
 
